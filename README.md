@@ -1,2 +1,4 @@
 # pilot
-testing repository
+
+* This project is awsome
+* I love Ikaria
